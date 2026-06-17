@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program performs division using two numbers entered by the user. It uses a `Scanner` to read integer inputs and calculates the result by dividing the first number by the second. Exception handling is used to prevent the program from crashing if the user enters invalid data or attempts to divide by zero. The program catches `ArithmeticException` for division by zero and `InputMismatchException` for non-integer input. This demonstrates user input, arithmetic operations, and exception handling in Java.
