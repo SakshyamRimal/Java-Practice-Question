@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program processes a list of student scores using an `ArrayList` and a for-each loop. Several scores are added to the list, and each score is checked using conditional statements. Scores of 80 or above are classified as **Distinction**, scores from 40 to 79 are classified as **Pass**, and scores below 40 are classified as **Fail**. The result for each score is then displayed on the screen. This demonstrates the use of `ArrayList`, loops, and decision-making statements in Java.
