@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates the use of an interface in Java. The `Searchable` interface defines a `search()` method that must be implemented by any class that uses it. Both `EBook` and `PhysicalBook` implement the interface and provide their own version of the `search()` method. In the `main()` method, objects of both classes are created and used to search for the keyword "Networking". This shows how interfaces allow different classes to perform similar actions in their own way.
