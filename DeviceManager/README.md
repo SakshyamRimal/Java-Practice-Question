@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates abstraction and polymorphism in Java. The abstract class `ElectronicDevice` contains the abstract method `powerOn()`, which must be implemented by its subclasses. The `Printer` and `Scanner` classes provide their own versions of the `powerOn()` method. In the `main()` method, an array of `ElectronicDevice` objects stores both a printer and a scanner. A loop calls `powerOn()` for each device, allowing the correct method to run based on the object type.
