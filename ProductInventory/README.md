@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates the use of an interface in Java. The `Discountable` interface defines the `applyDiscount()` method, which is implemented by the `Electronics` class. Each electronic item has a name and price, and the discount is calculated and applied to reduce the original price. In the `main()` method, an array of electronic products is created, and a loop applies a 10% discount to each item. This shows the use of interfaces, arrays, loops, and basic calculations in Java.
