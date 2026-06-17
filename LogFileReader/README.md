@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program reads a server log file and searches for lines containing the word `"ERROR"`. It uses a `Scanner` to read the file line by line and stores all error messages in an `ArrayList`. After scanning the file, the program displays the total number of errors found and prints each error message. A `try-catch` block is used to handle the situation where the `server.log` file cannot be found. This demonstrates file handling, arrays, loops, and exception handling in Java.
