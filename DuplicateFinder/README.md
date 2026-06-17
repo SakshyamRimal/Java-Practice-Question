@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program checks a guest list for duplicate names using an `ArrayList`. The guest names are stored in the list, and two nested loops compare each name with the others. If two names are the same, the program displays a message indicating a duplicate entry. In this example, the name "Grace" appears more than once and is identified as a duplicate. This demonstrates the use of `ArrayList`, loops, and string comparison in Java.
