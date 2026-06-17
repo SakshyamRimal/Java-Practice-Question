@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program checks whether a file named `config.txt` exists in the system. It uses a `File` object and the `exists()` method to verify the file's presence. If the file is found, a message is displayed confirming its existence. If the file is not found, a `FileNotFoundException` is thrown and handled using a `catch` block. The program then creates a new `config.txt` file using `createNewFile()`. This demonstrates basic file handling and exception handling in Java.
