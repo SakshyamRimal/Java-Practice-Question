@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program analyzes survey responses by counting how many times each rating appears. The `responses` array stores ratings from 1 to 5, while the `freq` array is used to keep track of their frequencies. A loop goes through each response and increases the corresponding count in the frequency array. Another loop then displays the total number of occurrences for each rating. This demonstrates the use of arrays and loops for simple data analysis in Java.
