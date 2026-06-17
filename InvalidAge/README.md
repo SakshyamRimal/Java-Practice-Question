@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates the use of a custom exception in Java. The `InvalidAgeException` class is created by extending the `Exception` class. The `checkEligibility()` method in the `VotingSystem` class checks whether a person's age is at least 18 and throws an exception if the age requirement is not met. In the `main()` method, the age is validated inside a `try-catch` block. This shows how custom exceptions can be used to handle specific program rules and errors.
