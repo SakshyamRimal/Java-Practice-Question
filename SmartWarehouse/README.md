@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates the use of interfaces, abstraction, and inheritance in Java. The `Refrigerated` interface defines the `adjustTemp()` method, while the abstract `StorageUnit` class stores common information such as the storage unit's ID and capacity. The `ColdBox` class extends `StorageUnit` and implements the `Refrigerated` interface by providing its own temperature adjustment functionality. In the `main()` method, a `ColdBox` object is created, its details are displayed, and the temperature is updated. This shows how interfaces and abstract classes can work together to model real-world objects.
