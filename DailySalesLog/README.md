@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program saves weekly sales data to a text file using file handling in Java. The sales amounts are stored in a `double` array, and a loop writes each value to the file `weekly_sales.txt` on a separate line. A `BufferedWriter` is used to make writing to the file more efficient. The program displays a success message when the data is saved. Exception handling is included to catch any errors that may occur during the file-writing process.
