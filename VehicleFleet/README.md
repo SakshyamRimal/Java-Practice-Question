@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program demonstrates inheritance and polymorphism in Java. The `Vehicle` class contains a `calculateFee()` method, which is overridden by the `Bike` and `Bus` classes to return their respective rental fees. An `ArrayList` stores different types of vehicle objects using the `Vehicle` reference type. The program then loops through the list and calls `calculateFee()` for each vehicle. This allows the correct rental fee to be displayed based on the actual object type.
