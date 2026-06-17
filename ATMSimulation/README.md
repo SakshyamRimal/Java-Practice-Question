@@ -1,0 +1,3 @@
+## Program Explanation
+
+This program simulates a simple bank account using encapsulation in Java. The `BankAccount` class stores the account balance as a private variable and provides methods to access and update it. The `withdraw()` method checks whether the withdrawal amount is valid and whether sufficient funds are available before deducting money from the balance. In the `main()` method, a bank account is created with an initial balance of $500, and different withdrawal attempts are tested. This demonstrates constructors, encapsulation, and conditional statements in Java.
